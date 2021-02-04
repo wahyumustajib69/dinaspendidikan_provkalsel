@@ -4,6 +4,7 @@ Aplikasi pegawai di dinas pendidikan provinsi kalimantan selatan
 2. REPORT PLUGIN FPDF
 3. PHP 5.6.3
 4. DB MYSQL
+5. TEMPLATE MIMINIUM
 
 HALAMAN LOGIN
 ![gambar](https://user-images.githubusercontent.com/32360091/106885332-6a4bd800-671d-11eb-9e0e-254da8c9d100.png)
