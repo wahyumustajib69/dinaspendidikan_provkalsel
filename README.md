@@ -6,3 +6,6 @@ HALAMAN LOGIN
 
 HALAMAN BERANDA
 ![gambar](https://user-images.githubusercontent.com/32360091/106885626-d75f6d80-671d-11eb-8f83-937f71c38905.png)
+
+LAPORAN DENGAN PLUGIN FPDF
+![gambar](https://user-images.githubusercontent.com/32360091/106885917-3f15b880-671e-11eb-9c3d-bcce14397096.png)
